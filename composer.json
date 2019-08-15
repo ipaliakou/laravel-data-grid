@@ -1,0 +1,21 @@
+{
+    "name": "dcoding/laravel-data-grid",
+    "description": "Simple data grid for Laravel collections.",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Polyakov",
+            "email": "ipaliakou@elinext.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Dcoding\\": "src/"
+        }
+    }
+}

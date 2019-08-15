@@ -1,0 +1,2 @@
+.datagrid tr th:last-child { width: 1px; }
+.datagrid tr td:last-child { white-space: nowrap; }
